@@ -1,4 +1,4 @@
-# Day 7 classwork 
+# Day 7 classwork
 
 ## Variables
 
@@ -11,3 +11,7 @@
 - ask the user for their name with prompt()
 - ask for their age with prompt()
 - show a greeting in alert() --> "Hello [name], your age is [age]"
+
+## EXTRA
+
+- change the color of the Console.log content and make it when printed show green in the browser console log
